@@ -3,7 +3,7 @@
 </div>
 
 <div align="center"> 
-  <img src="images/Logo.PNG" width="200">
+  <img src="images/logo.PNG" width="200">
 </div>
 
 **Table of content**
